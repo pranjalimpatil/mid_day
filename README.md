@@ -17,6 +17,7 @@ b)All previous transactions i.e day-to-day expenditure can also viewed.
 Once the admin logs in he has following options
 
 1.View Indents-All the indents placed by the schools under his concern can be viewed and he can  make the grant accordingly to each school.
+
 2.View Grants-All grants that are made so far by him to each school can be viewed.
 
 3.View Not Reached Grants-All the grants that are made but have not reached the schools can be viewed here.Thus he will be able to trace the stock released for each school.
